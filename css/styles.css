@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  width: 1440px;
+}
+h1 {
+  color: white;
+  font-family: 'Big Shoulders Display', cursive;
+  padding-left: 40px;
+}
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+.p-main {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  padding: 0 40px;
+  line-height: 1.7;
+}
+img {
+  padding: 40px 0 10px 40px;
+}
+.orange {
+  background-color: #E38826;
+  width: 280px;
+  height: 480px;
+  position: relative;
+  left: 300px;
+  top: 100px;
+  border-radius: 10px 0 0 10px;
+  }
+.blue {
+  background-color: #006970;
+  width: 280px;
+  height: 480px;
+  position: relative;
+  left: 580px;
+  bottom: 380px;
+}
+.green {
+  background-color: #004241;
+  width: 280px;
+  height: 480px;
+  position: relative;
+  left: 860px;
+  bottom: 860px;
+  border-radius: 0 10px 10px 0;
+}
+.btn-one {
+  margin-top: 80px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  color: #E38826;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 40px;
+}
+.btn-two {
+  margin-top: 80px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  color: #006970;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 40px;
+}
+.btn-three {
+  margin-top: 80px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  color: #004241;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 40px;
+}
